@@ -1,5 +1,5 @@
 # ProjectPurwaCPM3
-## This is a repository made for Capstone Module 3 Project at Purwadhika. 
+## This is a repository made for Predicting House Prices in California
 
 Tujuan utama project ini adalah untuk menganalisa data harga properti di California dan membangun model yang dapat memprediksi harga properti.
 
